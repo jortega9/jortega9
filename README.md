@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jorge Ortega</h1>
-<h3 align="center">Computer engineering student with 4 years of academic experience in UCM, I distinguish myself for my dedication to programming and problem-solving.</h3>
+<h1 align="left">Hi 👋, I'm Jorge Ortega</h1>
+<h3 align="left">Computer engineering student with 4 years of academic experience in UCM, I distinguish myself for my dedication to programming and problem-solving.</h3>
 
-- 🔭 I’m currently working on **projects related to advanced algorithms,deep learning, computer language processing, and blockchain technology.**
+- 🔭 I’m currently working on **projects related to advanced algorithms, computer language processing, and blockchain technology.**
 
-- 🌱 I’m currently learning **react and deep learning courses**
+- 🌱 I’m currently learning **react, cybersecurity and deep learning courses, and solidity programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jortega9?tab=repositories](https://github.com/jortega9?tab=repositories)
 
