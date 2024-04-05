@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects related to advanced algorithms, computer language processing, and blockchain technology.**
 
-- 🌱 I’m currently learning **react, cybersecurity and deep learning courses, and solidity programming**
+- 🌱 I’m currently learning **react, cybersecurity, deep learning , and solidity programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jortega9?tab=repositories](https://github.com/jortega9?tab=repositories)
 
