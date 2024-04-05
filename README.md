@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jorge Ortega</h1>
-<h3 align="left">Computer engineering student with 4 years of academic experience in UCM, I distinguish myself for my dedication to programming and problem-solving.</h3>
+<p align="left">Computer engineering student with 4 years of academic experience in UCM, I distinguish myself for my dedication to programming and problem-solving.</p>
 
 - 🔭 I’m currently working on **projects related to advanced algorithms, computer language processing, and blockchain technology.**
 
